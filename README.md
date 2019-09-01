@@ -1,5 +1,9 @@
 Dashboard for San Diego's CityIQ sensor network.
 
+# Deployment
+
+I'm trying heroku for deployment. I ran `heroku create` to create a project from the command line. Also need to set environmental variable like so: `heroku config:set GOOGLE_MAPS_TOKEN=$GOOGLE_MAPS_TOKEN`. Then deploy with `git push heroku master`.
+
 # Links
 
 Info is pretty well buried [on the city's website here](https://www.sandiego.gov/sustainability/energy-and-water-efficiency/programs-projects/smart-city). 
