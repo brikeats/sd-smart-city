@@ -1,6 +1,5 @@
 Dashboard for San Diego's CityIQ sensor network.
 
-
 # Links
 
 Info is pretty well buried [on the city's website here](https://www.sandiego.gov/sustainability/energy-and-water-efficiency/programs-projects/smart-city). 
